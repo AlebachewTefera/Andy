@@ -1,0 +1,8 @@
+{
+  "name": "TinyBiz",
+  "description": "A cute, simple, and modern business management app to track sales, expenses, inventory, customers, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

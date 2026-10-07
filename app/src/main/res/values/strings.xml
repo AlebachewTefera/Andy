@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TinyBiz</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_products">Products</string>
+    <string name="nav_sales">Sales</string>
+    <string name="nav_customers">Customers</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_settings">Settings</string>
+</resources>

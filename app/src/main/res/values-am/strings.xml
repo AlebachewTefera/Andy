@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ታይኒቢዝ (TinyBiz)</string>
+    <string name="nav_home">መነሻ</string>
+    <string name="nav_products">ምርቶች</string>
+    <string name="nav_sales">ሽያጮች</string>
+    <string name="nav_customers">ደንበኞች</string>
+    <string name="nav_reports">ሪፖርቶች</string>
+    <string name="nav_settings">ቅንብሮች</string>
+</resources>
